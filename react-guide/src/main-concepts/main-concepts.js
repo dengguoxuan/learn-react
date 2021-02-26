@@ -1,3 +1,5 @@
+import React from 'react';
+
 // jsx 元素渲染 组件&props
 // const user = {
 // 	firstName: 'Sherry',
